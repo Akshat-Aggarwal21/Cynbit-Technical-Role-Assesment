@@ -1,7 +1,0 @@
-asset_id,building_id,name,asset_type,location_description
-ASSET-PLUMB-RISER-A1,BLDG-OAK-A,Main Domestic Plumbing Riser Stack 01,plumbing_riser,Vertical chase serving X01 units
-ASSET-PLUMB-RISER-A2,BLDG-OAK-A,Plumbing Riser Stack 02,plumbing_riser,Vertical chase serving X02 units
-ASSET-ROOF-DRAIN-A,BLDG-OAK-A,Roof Rainwater Drainage Collector A,roof_drainage,Top floor drainage header
-ASSET-HVAC-LOOP-B,BLDG-OAK-B,Central Hydronic Heat Loop B,hvac_loop,Sub-basement circulation pump and riser
-ASSET-HVAC-CHILLER-M1,BLDG-MAR-1,Central Chiller Water Loop Marina,hvac_loop,Penthouse chiller plant
-ASSET-ELEC-BUS-P1,BLDG-PIN-1,Main Electrical Distribution Feeder,electrical_bus,Ground floor electrical room
