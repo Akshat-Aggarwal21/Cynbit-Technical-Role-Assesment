@@ -1,0 +1,16 @@
+unit_id,asset_id,connection_type
+UNIT-OAK-A-101,ASSET-PLUMB-RISER-A1,direct_vertical_riser
+UNIT-OAK-A-201,ASSET-PLUMB-RISER-A1,direct_vertical_riser
+UNIT-OAK-A-301,ASSET-PLUMB-RISER-A1,direct_vertical_riser
+UNIT-OAK-A-401,ASSET-PLUMB-RISER-A1,direct_vertical_riser
+UNIT-OAK-A-501,ASSET-PLUMB-RISER-A1,direct_vertical_riser
+UNIT-OAK-A-102,ASSET-PLUMB-RISER-A2,direct_vertical_riser
+UNIT-OAK-A-202,ASSET-PLUMB-RISER-A2,direct_vertical_riser
+UNIT-OAK-A-302,ASSET-PLUMB-RISER-A2,direct_vertical_riser
+UNIT-OAK-A-402,ASSET-PLUMB-RISER-A2,direct_vertical_riser
+UNIT-OAK-A-502,ASSET-PLUMB-RISER-A2,direct_vertical_riser
+UNIT-OAK-A-501,ASSET-ROOF-DRAIN-A,overhead_collector
+UNIT-OAK-A-502,ASSET-ROOF-DRAIN-A,overhead_collector
+UNIT-OAK-B-101,ASSET-HVAC-LOOP-B,closed_loop
+UNIT-OAK-B-201,ASSET-HVAC-LOOP-B,closed_loop
+UNIT-OAK-B-301,ASSET-HVAC-LOOP-B,closed_loop

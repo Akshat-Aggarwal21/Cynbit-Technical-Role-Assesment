@@ -1,0 +1,17 @@
+repair_id,incident_id,completed_at,action_taken,outcome,technician_notes,vendor_name
+REP-2026-001,INC-2026-006,2026-10-07T01:00:00,Tightened P-trap compression nut under kitchen sink and replaced worn rubber washer.,completed,Tested water flow for 5 minutes with no visible leak. Instructed tenant to monitor.,Apex Plumbing Services
+REP-2026-002,INC-2026-009,2026-10-07T20:00:00,Replaced stuck steam air vent valve on radiator.,completed,Radiator vents smoothly without hammering now.,Comfort Air & Steam LLC
+REP-2026-003,INC-2026-016,2026-10-16T20:00:00,Replaced electrical outlet and verified ground connection.,completed,Work completed in unit UNIT-OAK-A-102.,Volt Electric
+REP-2026-004,INC-2026-017,2026-10-18T22:00:00,Cleared drain trap line using mechanical snake.,completed,Work completed in unit UNIT-OAK-A-202.,Apex Plumbing Services
+REP-2026-005,INC-2026-018,2026-10-18T23:00:00,Reset digital thermostat wiring and replaced AA batteries.,completed,Work completed in unit UNIT-OAK-A-302.,Comfort Air & Steam LLC
+REP-2026-006,INC-2026-019,2026-10-20T03:00:00,Patched cosmetic drywall crack and applied primer.,completed,Work completed in unit UNIT-OAK-A-402.,Metro Handyman Co
+REP-2026-007,INC-2026-020,2026-10-21T04:00:00,Replaced refrigerator door gasket seal.,completed,Work completed in unit UNIT-OAK-A-502.,Appliance Pro Care
+REP-2026-008,INC-2026-021,2026-10-18T01:00:00,Replaced electrical outlet and verified ground connection.,completed,Work completed in unit UNIT-OAK-B-102.,Volt Electric
+REP-2026-009,INC-2026-022,2026-10-19T02:00:00,Cleared drain trap line using mechanical snake.,completed,Work completed in unit UNIT-OAK-B-202.,Apex Plumbing Services
+REP-2026-010,INC-2026-023,2026-10-22T04:00:00,Reset digital thermostat wiring and replaced AA batteries.,completed,Work completed in unit UNIT-OAK-B-302.,Comfort Air & Steam LLC
+REP-2026-011,INC-2026-024,2026-10-16T00:00:00,Patched cosmetic drywall crack and applied primer.,completed,Work completed in unit UNIT-MAR-201.,Metro Handyman Co
+REP-2026-012,INC-2026-025,2026-10-18T01:00:00,Replaced refrigerator door gasket seal.,completed,Work completed in unit UNIT-MAR-401.,Appliance Pro Care
+REP-2026-013,INC-2026-026,2026-10-21T23:00:00,Replaced electrical outlet and verified ground connection.,completed,Work completed in unit UNIT-MAR-601.,Volt Electric
+REP-2026-014,INC-2026-027,2026-10-24T03:00:00,Cleared drain trap line using mechanical snake.,completed,Work completed in unit UNIT-MAR-801.,Apex Plumbing Services
+REP-2026-015,INC-2026-036,2026-10-04T22:00:00,Reset digital thermostat wiring and replaced AA batteries.,completed,Work completed in unit UNIT-MAR-201.,Comfort Air & Steam LLC
+REP-2026-016,INC-2026-038,2026-10-08T03:00:00,Patched cosmetic drywall crack and applied primer.,completed,Work completed in unit UNIT-OAK-B-201.,Metro Handyman Co
